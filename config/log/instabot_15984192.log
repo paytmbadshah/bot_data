@@ -1,0 +1,285 @@
+2021-06-27 19:40:15,333 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2021-06-27 19:40:15,334 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\hp\AppData\Local\Programs\Python\Python38-32\lib\site-packages\instabot\bot\bot.py
+2021-06-27 19:40:15,336 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2021-06-27 19:40:16,202 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2021-06-27 19:40:17,207 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2021-06-27 19:40:17,774 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2021-06-27 19:40:18,328 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2021-06-27 19:40:20,524 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [200]>
+2021-06-27 19:40:20,524 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'taniya_verma_143'!
+2021-06-27 19:40:20,529 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2021-06-27 19:40:21,115 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2021-06-27 19:40:21,793 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2021-06-27 19:40:22,447 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: zr/token/result/?device_id=android-483dd0c6a985d9f6&token_hash=&custom_device_id=android-483dd0c6a985d9f6&fetch_reason=token_expired returned response: <Response [200]>
+2021-06-27 19:40:23,042 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: multiple_accounts/get_account_family/ returned response: <Response [200]>
+2021-06-27 19:40:23,803 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2021-06-27 19:40:24,678 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: igtv/browse_feed/?prefetch=1 returned response: <Response [200]>
+2021-06-27 19:40:25,237 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: creatives/ar_class/ returned response: <Response [200]>
+2021-06-27 19:40:26,982 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2021-06-27 19:40:29,497 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2021-06-27 19:40:30,082 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/blocked/ returned response: <Response [200]>
+2021-06-27 19:40:31,085 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: news/inbox/ returned response: <Response [200]>
+2021-06-27 19:40:31,651 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: loom/fetch_config/ returned response: <Response [200]>
+2021-06-27 19:40:33,608 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: scores/bootstrap/users/?surfaces=["autocomplete_user_list","coefficient_besties_list_ranking","coefficient_rank_recipient_user_suggestion","coefficient_ios_section_test_bootstrap_ranking","coefficient_direct_recipients_ranking_variant_2"] returned response: <Response [200]>
+2021-06-27 19:40:34,358 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: business/eligibility/get_monetization_products_eligibility_data/?product_types=branded_content returned response: <Response [200]>
+2021-06-27 19:40:35,045 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: business/branded_content/should_require_professional_account/ returned response: <Response [200]>
+2021-06-27 19:40:35,692 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: linked_accounts/get_linkage_status/ returned response: <Response [200]>
+2021-06-27 19:40:36,212 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: locations/request_country/ returned response: <Response [200]>
+2021-06-27 19:40:36,773 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: qp/get_cooldowns/?signed_body=signed_body=4b9c516a5410a3bc128e09c6104a7f042146b9c2023870560c63a43a7f66781c.4&ig_sig_key_version=4&ig_sig_key_version=4 returned response: <Response [200]>
+2021-06-27 19:40:37,539 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/arlink_download_info/?version_override=2.2.1 returned response: <Response [200]>
+2021-06-27 19:40:38,343 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/48070542859/info/ returned response: <Response [200]>
+2021-06-27 19:40:39,209 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+2021-06-27 19:40:40,328 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20 returned response: <Response [200]>
+2021-06-27 19:40:40,845 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/inbox/?visual_message_return_type=unseen&persistentBadging=true&limit=0 returned response: <Response [200]>
+2021-06-27 19:40:41,437 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: discover/topical_explore/?is_prefetch=true&omit_cover_media=true&use_sectional_payload=true&timezone_offset=0&session_id=1d802cf0-c6b9-4c31-8645-ce21d5a236d7&include_fixed_destinations=true returned response: <Response [200]>
+2021-06-27 19:40:42,138 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: notifications/badge/ returned response: <Response [200]>
+2021-06-27 19:40:42,918 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qp/batch_fetch/ returned response: <Response [200]>
+2021-06-27 19:40:42,921 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\hp\Desktop\Instagram/config/taniya_verma_143.checkpoint
+2021-06-27 19:40:58,195 - instabot version: 0.117.0 (bot_follow) - INFO - Follow followers of: aditya_raj3238
+2021-06-27 19:40:58,822 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/aditya_raj3238/usernameinfo/ returned response: <Response [200]>
+2021-06-27 19:40:59,955 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/45936753284/info/ returned response: <Response [200]>
+2021-06-27 19:41:02,598 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/45936753284/followers/?rank_token=48070542859_2e34dad6-df72-4eb2-9525-e23229d8fc5e returned response: <Response [200]>
+2021-06-27 19:41:04,713 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/45936753284/followers/?rank_token=48070542859_2e34dad6-df72-4eb2-9525-e23229d8fc5e&max_id=100 returned response: <Response [200]>
+2021-06-27 19:41:06,747 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/45936753284/followers/?rank_token=48070542859_2e34dad6-df72-4eb2-9525-e23229d8fc5e&max_id=200 returned response: <Response [200]>
+2021-06-27 19:41:08,709 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/45936753284/followers/?rank_token=48070542859_2e34dad6-df72-4eb2-9525-e23229d8fc5e&max_id=300 returned response: <Response [200]>
+2021-06-27 19:41:10,465 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/45936753284/followers/?rank_token=48070542859_2e34dad6-df72-4eb2-9525-e23229d8fc5e&max_id=400 returned response: <Response [200]>
+2021-06-27 19:41:12,939 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/45936753284/followers/?rank_token=48070542859_2e34dad6-df72-4eb2-9525-e23229d8fc5e&max_id=500 returned response: <Response [200]>
+2021-06-27 19:41:14,827 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/45936753284/followers/?rank_token=48070542859_2e34dad6-df72-4eb2-9525-e23229d8fc5e&max_id=600 returned response: <Response [200]>
+2021-06-27 19:41:16,786 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/45936753284/followers/?rank_token=48070542859_2e34dad6-df72-4eb2-9525-e23229d8fc5e&max_id=700 returned response: <Response [200]>
+2021-06-27 19:41:18,604 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/45936753284/followers/?rank_token=48070542859_2e34dad6-df72-4eb2-9525-e23229d8fc5e&max_id=800 returned response: <Response [200]>
+2021-06-27 19:41:20,506 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/45936753284/followers/?rank_token=48070542859_2e34dad6-df72-4eb2-9525-e23229d8fc5e&max_id=900 returned response: <Response [200]>
+2021-06-27 19:41:22,176 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/45936753284/followers/?rank_token=48070542859_2e34dad6-df72-4eb2-9525-e23229d8fc5e&max_id=1000 returned response: <Response [200]>
+2021-06-27 19:41:23,945 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/45936753284/followers/?rank_token=48070542859_2e34dad6-df72-4eb2-9525-e23229d8fc5e&max_id=1100 returned response: <Response [200]>
+2021-06-27 19:41:26,472 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/45936753284/followers/?rank_token=48070542859_2e34dad6-df72-4eb2-9525-e23229d8fc5e&max_id=1200 returned response: <Response [200]>
+2021-06-27 19:41:28,787 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/45936753284/followers/?rank_token=48070542859_2e34dad6-df72-4eb2-9525-e23229d8fc5e&max_id=1300 returned response: <Response [200]>
+2021-06-27 19:41:30,750 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/45936753284/followers/?rank_token=48070542859_2e34dad6-df72-4eb2-9525-e23229d8fc5e&max_id=1400 returned response: <Response [200]>
+2021-06-27 19:41:32,767 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/45936753284/followers/?rank_token=48070542859_2e34dad6-df72-4eb2-9525-e23229d8fc5e&max_id=1500 returned response: <Response [200]>
+2021-06-27 19:41:35,217 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/45936753284/followers/?rank_token=48070542859_2e34dad6-df72-4eb2-9525-e23229d8fc5e&max_id=1600 returned response: <Response [200]>
+2021-06-27 19:41:37,202 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/45936753284/followers/?rank_token=48070542859_2e34dad6-df72-4eb2-9525-e23229d8fc5e&max_id=1700 returned response: <Response [200]>
+2021-06-27 19:41:39,301 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/45936753284/followers/?rank_token=48070542859_2e34dad6-df72-4eb2-9525-e23229d8fc5e&max_id=1800 returned response: <Response [200]>
+2021-06-27 19:41:41,690 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/45936753284/followers/?rank_token=48070542859_2e34dad6-df72-4eb2-9525-e23229d8fc5e&max_id=1900 returned response: <Response [200]>
+2021-06-27 19:41:43,610 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/45936753284/followers/?rank_token=48070542859_2e34dad6-df72-4eb2-9525-e23229d8fc5e&max_id=2000 returned response: <Response [200]>
+2021-06-27 19:41:45,746 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/45936753284/followers/?rank_token=48070542859_2e34dad6-df72-4eb2-9525-e23229d8fc5e&max_id=2100 returned response: <Response [200]>
+2021-06-27 19:41:47,991 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/45936753284/followers/?rank_token=48070542859_2e34dad6-df72-4eb2-9525-e23229d8fc5e&max_id=2200 returned response: <Response [200]>
+2021-06-27 19:41:49,826 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/45936753284/followers/?rank_token=48070542859_2e34dad6-df72-4eb2-9525-e23229d8fc5e&max_id=2300 returned response: <Response [200]>
+2021-06-27 19:41:51,934 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/45936753284/followers/?rank_token=48070542859_2e34dad6-df72-4eb2-9525-e23229d8fc5e&max_id=2400 returned response: <Response [200]>
+2021-06-27 19:41:53,906 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/45936753284/followers/?rank_token=48070542859_2e34dad6-df72-4eb2-9525-e23229d8fc5e&max_id=2500 returned response: <Response [200]>
+2021-06-27 19:41:55,866 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/45936753284/followers/?rank_token=48070542859_2e34dad6-df72-4eb2-9525-e23229d8fc5e&max_id=2600 returned response: <Response [200]>
+2021-06-27 19:41:57,947 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/45936753284/followers/?rank_token=48070542859_2e34dad6-df72-4eb2-9525-e23229d8fc5e&max_id=2700 returned response: <Response [200]>
+2021-06-27 19:41:57,961 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow 2793 users.
+2021-06-27 19:41:58,055 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 46661402894.
+2021-06-27 19:41:58,056 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "46661402894", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:41:59,583 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/46661402894/ returned response: <Response [200]>
+2021-06-27 19:41:59,583 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 46661402894.
+2021-06-27 19:42:00,299 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/48070542859/info/ returned response: <Response [200]>
+2021-06-27 19:42:01,457 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/48070542859/following/?max_id=&ig_sig_key_version=4&rank_token=48070542859_2e34dad6-df72-4eb2-9525-e23229d8fc5e returned response: <Response [200]>
+2021-06-27 19:42:01,487 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 39427011660.
+2021-06-27 19:42:07,325 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "39427011660", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:42:08,983 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/39427011660/ returned response: <Response [200]>
+2021-06-27 19:42:08,983 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 39427011660.
+2021-06-27 19:42:09,019 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 46659783843.
+2021-06-27 19:42:16,719 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "46659783843", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:42:19,357 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/46659783843/ returned response: <Response [200]>
+2021-06-27 19:42:19,357 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 46659783843.
+2021-06-27 19:42:19,405 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 45639318935.
+2021-06-27 19:42:26,831 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "45639318935", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:42:28,664 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/45639318935/ returned response: <Response [200]>
+2021-06-27 19:42:28,664 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 45639318935.
+2021-06-27 19:42:28,692 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 45547508840.
+2021-06-27 19:42:36,352 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "45547508840", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:42:38,222 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/45547508840/ returned response: <Response [200]>
+2021-06-27 19:42:38,222 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 45547508840.
+2021-06-27 19:42:38,250 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 15260932501.
+2021-06-27 19:42:48,336 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "15260932501", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:42:49,942 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/15260932501/ returned response: <Response [200]>
+2021-06-27 19:42:49,942 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 15260932501.
+2021-06-27 19:42:49,974 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 45002660379.
+2021-06-27 19:42:53,477 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "45002660379", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:42:55,103 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/45002660379/ returned response: <Response [200]>
+2021-06-27 19:42:55,450 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 45002660379.
+2021-06-27 19:42:55,474 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 46201459352.
+2021-06-27 19:43:02,149 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "46201459352", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:43:03,702 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/46201459352/ returned response: <Response [200]>
+2021-06-27 19:43:03,702 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 46201459352.
+2021-06-27 19:43:03,741 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 39654342464.
+2021-06-27 19:43:14,093 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "39654342464", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:43:16,183 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/39654342464/ returned response: <Response [200]>
+2021-06-27 19:43:16,183 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 39654342464.
+2021-06-27 19:43:16,200 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 46813193668.
+2021-06-27 19:43:20,587 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "46813193668", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:43:22,598 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/46813193668/ returned response: <Response [200]>
+2021-06-27 19:43:22,598 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 46813193668.
+2021-06-27 19:43:22,636 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 46054126796.
+2021-06-27 19:43:25,058 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "46054126796", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:43:26,726 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/46054126796/ returned response: <Response [200]>
+2021-06-27 19:43:26,726 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 46054126796.
+2021-06-27 19:43:26,863 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 40485974150.
+2021-06-27 19:43:29,144 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "40485974150", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:43:31,595 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/40485974150/ returned response: <Response [200]>
+2021-06-27 19:43:31,596 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 40485974150.
+2021-06-27 19:43:31,629 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 45732532265.
+2021-06-27 19:43:37,774 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "45732532265", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:43:39,465 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/45732532265/ returned response: <Response [200]>
+2021-06-27 19:43:39,465 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 45732532265.
+2021-06-27 19:43:39,540 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 46868848029.
+2021-06-27 19:43:42,722 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "46868848029", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:43:44,154 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/46868848029/ returned response: <Response [200]>
+2021-06-27 19:43:44,154 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 46868848029.
+2021-06-27 19:43:44,226 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 46336604549.
+2021-06-27 19:43:53,441 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "46336604549", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:43:55,012 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/46336604549/ returned response: <Response [200]>
+2021-06-27 19:43:55,012 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 46336604549.
+2021-06-27 19:43:55,049 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 32806944268.
+2021-06-27 19:44:05,168 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "32806944268", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:44:07,121 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/32806944268/ returned response: <Response [200]>
+2021-06-27 19:44:07,121 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 32806944268.
+2021-06-27 19:44:07,157 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 46742088087.
+2021-06-27 19:44:13,809 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "46742088087", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:44:15,462 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/46742088087/ returned response: <Response [200]>
+2021-06-27 19:44:15,462 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 46742088087.
+2021-06-27 19:44:15,498 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 45799127345.
+2021-06-27 19:44:22,314 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "45799127345", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:44:24,330 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/45799127345/ returned response: <Response [200]>
+2021-06-27 19:44:24,331 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 45799127345.
+2021-06-27 19:44:24,357 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 44498243016.
+2021-06-27 19:44:29,968 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "44498243016", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:44:31,426 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/44498243016/ returned response: <Response [200]>
+2021-06-27 19:44:31,426 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 44498243016.
+2021-06-27 19:44:31,455 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 8740743953.
+2021-06-27 19:44:33,792 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "8740743953", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:44:35,552 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/8740743953/ returned response: <Response [200]>
+2021-06-27 19:44:35,552 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 8740743953.
+2021-06-27 19:44:35,591 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 8001084787.
+2021-06-27 19:44:40,743 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "8001084787", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:44:42,590 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/8001084787/ returned response: <Response [200]>
+2021-06-27 19:44:42,590 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 8001084787.
+2021-06-27 19:44:42,624 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 45881578293.
+2021-06-27 19:44:44,955 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "45881578293", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:44:47,221 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/45881578293/ returned response: <Response [200]>
+2021-06-27 19:44:47,221 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 45881578293.
+2021-06-27 19:44:47,245 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 44832109025.
+2021-06-27 19:44:50,377 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "44832109025", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:44:51,990 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/44832109025/ returned response: <Response [200]>
+2021-06-27 19:44:51,991 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 44832109025.
+2021-06-27 19:44:52,022 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 46561955636.
+2021-06-27 19:44:55,003 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "46561955636", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:44:56,743 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/46561955636/ returned response: <Response [200]>
+2021-06-27 19:44:56,743 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 46561955636.
+2021-06-27 19:44:56,770 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 47380147433.
+2021-06-27 19:45:03,292 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "47380147433", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:45:04,541 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/47380147433/ returned response: <Response [200]>
+2021-06-27 19:45:04,541 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 47380147433.
+2021-06-27 19:45:04,564 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 5376420287.
+2021-06-27 19:45:12,287 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "5376420287", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:45:14,152 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/5376420287/ returned response: <Response [200]>
+2021-06-27 19:45:14,152 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 5376420287.
+2021-06-27 19:45:14,177 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 45695377221.
+2021-06-27 19:45:23,790 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "45695377221", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:45:25,621 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/45695377221/ returned response: <Response [200]>
+2021-06-27 19:45:25,621 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 45695377221.
+2021-06-27 19:45:25,657 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 44940302618.
+2021-06-27 19:45:33,761 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "44940302618", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:45:35,342 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/44940302618/ returned response: <Response [200]>
+2021-06-27 19:45:35,342 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 44940302618.
+2021-06-27 19:45:35,363 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 47538390429.
+2021-06-27 19:45:39,199 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "47538390429", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:45:40,991 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/47538390429/ returned response: <Response [200]>
+2021-06-27 19:45:40,991 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 47538390429.
+2021-06-27 19:45:41,005 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 11548382250.
+2021-06-27 19:45:47,191 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "11548382250", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:45:48,741 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/11548382250/ returned response: <Response [200]>
+2021-06-27 19:45:48,741 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 11548382250.
+2021-06-27 19:45:48,789 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 42862584697.
+2021-06-27 19:45:51,004 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "42862584697", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:45:53,101 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/42862584697/ returned response: <Response [200]>
+2021-06-27 19:45:53,101 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 42862584697.
+2021-06-27 19:45:53,150 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 45426236690.
+2021-06-27 19:45:56,793 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "45426236690", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:45:58,307 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/45426236690/ returned response: <Response [200]>
+2021-06-27 19:45:58,307 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 45426236690.
+2021-06-27 19:45:58,370 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 44939364654.
+2021-06-27 19:46:05,582 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "44939364654", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:46:07,422 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/44939364654/ returned response: <Response [200]>
+2021-06-27 19:46:07,422 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 44939364654.
+2021-06-27 19:46:07,447 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 45910131994.
+2021-06-27 19:46:16,662 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "45910131994", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:46:18,262 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/45910131994/ returned response: <Response [200]>
+2021-06-27 19:46:18,262 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 45910131994.
+2021-06-27 19:46:18,285 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 9062070216.
+2021-06-27 19:46:22,932 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "9062070216", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:46:24,269 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/9062070216/ returned response: <Response [200]>
+2021-06-27 19:46:24,274 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 9062070216.
+2021-06-27 19:46:24,292 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 21750098679.
+2021-06-27 19:46:31,278 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "21750098679", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:46:33,303 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/21750098679/ returned response: <Response [200]>
+2021-06-27 19:46:33,303 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 21750098679.
+2021-06-27 19:46:33,349 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 46655607754.
+2021-06-27 19:46:35,396 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "46655607754", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:46:37,104 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/46655607754/ returned response: <Response [200]>
+2021-06-27 19:46:37,104 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 46655607754.
+2021-06-27 19:46:37,152 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 45179341803.
+2021-06-27 19:46:45,416 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "45179341803", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:46:46,862 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/45179341803/ returned response: <Response [200]>
+2021-06-27 19:46:46,862 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 45179341803.
+2021-06-27 19:46:46,888 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 44563345891.
+2021-06-27 19:46:51,329 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "44563345891", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:46:52,833 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/44563345891/ returned response: <Response [200]>
+2021-06-27 19:46:52,833 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 44563345891.
+2021-06-27 19:46:52,862 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 45330715447.
+2021-06-27 19:46:55,211 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "45330715447", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:46:56,704 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/45330715447/ returned response: <Response [200]>
+2021-06-27 19:46:56,704 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 45330715447.
+2021-06-27 19:46:56,743 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 45365181658.
+2021-06-27 19:47:05,585 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "45365181658", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:47:07,304 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/45365181658/ returned response: <Response [200]>
+2021-06-27 19:47:07,304 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 45365181658.
+2021-06-27 19:47:07,333 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 46690805559.
+2021-06-27 19:47:14,948 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "46690805559", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:47:16,582 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/46690805559/ returned response: <Response [200]>
+2021-06-27 19:47:16,582 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 46690805559.
+2021-06-27 19:47:16,621 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 5874237183.
+2021-06-27 19:47:20,450 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "5874237183", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:47:21,949 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/5874237183/ returned response: <Response [200]>
+2021-06-27 19:47:21,949 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 5874237183.
+2021-06-27 19:47:21,985 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 5346866790.
+2021-06-27 19:47:31,962 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "5346866790", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:47:33,303 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/5346866790/ returned response: <Response [200]>
+2021-06-27 19:47:33,303 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 5346866790.
+2021-06-27 19:47:33,360 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 45541018885.
+2021-06-27 19:47:38,463 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "45541018885", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:47:40,065 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/45541018885/ returned response: <Response [200]>
+2021-06-27 19:47:40,065 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 45541018885.
+2021-06-27 19:47:40,107 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 8038223154.
+2021-06-27 19:47:42,293 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "8038223154", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:47:43,797 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/8038223154/ returned response: <Response [200]>
+2021-06-27 19:47:43,797 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 8038223154.
+2021-06-27 19:47:43,833 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 39458513765.
+2021-06-27 19:47:48,948 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "39458513765", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:47:50,821 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/39458513765/ returned response: <Response [200]>
+2021-06-27 19:47:50,821 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 39458513765.
+2021-06-27 19:47:50,858 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 46667204890.
+2021-06-27 19:47:58,489 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "46667204890", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:47:59,997 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/46667204890/ returned response: <Response [200]>
+2021-06-27 19:47:59,997 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 46667204890.
+2021-06-27 19:48:00,043 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 30324977010.
+2021-06-27 19:48:06,325 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "30324977010", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:48:07,822 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/30324977010/ returned response: <Response [200]>
+2021-06-27 19:48:07,822 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 30324977010.
+2021-06-27 19:48:07,833 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 46588272313.
+2021-06-27 19:48:15,163 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "46588272313", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:48:16,781 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/46588272313/ returned response: <Response [200]>
+2021-06-27 19:48:16,781 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 46588272313.
+2021-06-27 19:48:16,817 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 40358574072.
+2021-06-27 19:48:25,422 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "40358574072", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:48:27,541 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/40358574072/ returned response: <Response [200]>
+2021-06-27 19:48:27,541 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 40358574072.
+2021-06-27 19:48:27,581 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 45763138077.
+2021-06-27 19:48:32,039 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "45763138077", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2e34dad6-df72-4eb2-9525-e23229d8fc5e", "_uid": "48070542859", "_csrftoken": "TaUk9QhvxUPDfWHEBvtFvryqK9iugEmp"}
+2021-06-27 19:48:33,764 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/45763138077/ returned response: <Response [200]>
+2021-06-27 19:48:33,764 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 45763138077.
+2021-06-27 19:48:33,796 - instabot version: 0.117.0 (bot_follow) - INFO - Out of follows for today.
+2021-06-27 19:48:33,799 - instabot version: 0.117.0 (bot_follow) - INFO - DONE: Now following 54 users in total.
+2021-06-27 19:51:27,252 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\hp\Desktop\Instagram/config/taniya_verma_143.checkpoint
+2021-06-27 19:51:27,253 - instabot version: 0.117.0 (bot) - INFO - Total follows: 54/54
+2021-06-27 19:51:27,254 - instabot version: 0.117.0 (bot) - INFO - Total messages: 1/87
+2021-06-27 19:51:27,257 - instabot version: 0.117.0 (bot) - INFO - Total requests: 396

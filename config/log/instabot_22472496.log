@@ -1,0 +1,60 @@
+2021-06-23 18:23:40,116 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2021-06-23 18:23:40,119 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\hp\AppData\Local\Programs\Python\Python38-32\lib\site-packages\instabot\bot\bot.py
+2021-06-23 18:23:40,121 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2021-06-23 18:23:41,522 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2021-06-23 18:23:42,169 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2021-06-23 18:23:42,787 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2021-06-23 18:23:43,416 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2021-06-23 18:23:46,941 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [200]>
+2021-06-23 18:23:46,984 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'taniya_verma_143'!
+2021-06-23 18:23:46,985 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2021-06-23 18:23:47,579 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2021-06-23 18:23:48,279 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2021-06-23 18:23:49,771 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: zr/token/result/?device_id=android-483dd0c6a985d9f6&token_hash=&custom_device_id=android-483dd0c6a985d9f6&fetch_reason=token_expired returned response: <Response [200]>
+2021-06-23 18:23:50,457 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: multiple_accounts/get_account_family/ returned response: <Response [200]>
+2021-06-23 18:23:51,358 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2021-06-23 18:23:52,866 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: igtv/browse_feed/?prefetch=1 returned response: <Response [200]>
+2021-06-23 18:23:53,671 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: creatives/ar_class/ returned response: <Response [200]>
+2021-06-23 18:23:54,682 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2021-06-23 18:23:56,923 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2021-06-23 18:23:57,609 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/blocked/ returned response: <Response [200]>
+2021-06-23 18:23:58,602 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: news/inbox/ returned response: <Response [200]>
+2021-06-23 18:23:59,134 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: loom/fetch_config/ returned response: <Response [200]>
+2021-06-23 18:23:59,866 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: scores/bootstrap/users/?surfaces=["autocomplete_user_list","coefficient_besties_list_ranking","coefficient_rank_recipient_user_suggestion","coefficient_ios_section_test_bootstrap_ranking","coefficient_direct_recipients_ranking_variant_2"] returned response: <Response [200]>
+2021-06-23 18:24:00,429 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: business/eligibility/get_monetization_products_eligibility_data/?product_types=branded_content returned response: <Response [200]>
+2021-06-23 18:24:01,024 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: business/branded_content/should_require_professional_account/ returned response: <Response [200]>
+2021-06-23 18:24:01,664 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: linked_accounts/get_linkage_status/ returned response: <Response [200]>
+2021-06-23 18:24:02,297 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: locations/request_country/ returned response: <Response [200]>
+2021-06-23 18:24:02,937 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: qp/get_cooldowns/?signed_body=signed_body=4b9c516a5410a3bc128e09c6104a7f042146b9c2023870560c63a43a7f66781c.4&ig_sig_key_version=4&ig_sig_key_version=4 returned response: <Response [200]>
+2021-06-23 18:24:03,579 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/arlink_download_info/?version_override=2.2.1 returned response: <Response [200]>
+2021-06-23 18:24:04,576 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/48070542859/info/ returned response: <Response [200]>
+2021-06-23 18:24:05,508 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+2021-06-23 18:24:06,475 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20 returned response: <Response [200]>
+2021-06-23 18:24:07,101 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/inbox/?visual_message_return_type=unseen&persistentBadging=true&limit=0 returned response: <Response [200]>
+2021-06-23 18:24:07,808 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: discover/topical_explore/?is_prefetch=true&omit_cover_media=true&use_sectional_payload=true&timezone_offset=0&session_id=6bce5628-faa4-444a-8f9d-9a6c1b2fe3e5&include_fixed_destinations=true returned response: <Response [200]>
+2021-06-23 18:24:08,380 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: notifications/badge/ returned response: <Response [200]>
+2021-06-23 18:24:09,377 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qp/batch_fetch/ returned response: <Response [200]>
+2021-06-23 18:24:09,385 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\hp\Desktop\Instagram/config/taniya_verma_143.checkpoint
+2021-06-23 18:24:10,860 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/saharsh_solanki_/usernameinfo/ returned response: <Response [200]>
+2021-06-23 18:24:11,216 - instabot version: 0.117.0 (bot_direct) - INFO - Going to send 1 messages.
+2021-06-23 18:24:12,059 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/threads/broadcast/text/ returned response: <Response [200]>
+2021-06-23 18:24:12,902 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/atwal7555/usernameinfo/ returned response: <Response [200]>
+2021-06-23 18:24:14,139 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/47430622394/info/ returned response: <Response [200]>
+2021-06-23 18:24:14,977 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/47430622394/followers/?rank_token=48070542859_2319f47e-9697-4f1a-973b-f35435b0cb69 returned response: <Response [200]>
+2021-06-23 18:24:15,751 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/47430622394/followers/?rank_token=48070542859_2319f47e-9697-4f1a-973b-f35435b0cb69&max_id=100 returned response: <Response [200]>
+2021-06-23 18:24:15,755 - instabot version: 0.117.0 (bot_follow) - INFO - Follow followers of: atwal7555
+2021-06-23 18:24:16,428 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/47430622394/info/ returned response: <Response [200]>
+2021-06-23 18:24:17,418 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/47430622394/followers/?rank_token=48070542859_2319f47e-9697-4f1a-973b-f35435b0cb69 returned response: <Response [200]>
+2021-06-23 18:24:18,097 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/47430622394/followers/?rank_token=48070542859_2319f47e-9697-4f1a-973b-f35435b0cb69&max_id=100 returned response: <Response [200]>
+2021-06-23 18:24:18,106 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow 110 users.
+2021-06-23 18:24:18,836 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 36366869646.
+2021-06-23 18:24:18,844 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "36366869646", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2319f47e-9697-4f1a-973b-f35435b0cb69", "_uid": "48070542859", "_csrftoken": "gFVhcab0FDMW5H6ny1owFobzTvXsQlWn"}
+2021-06-23 18:24:20,219 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/36366869646/ returned response: <Response [200]>
+2021-06-23 18:24:20,221 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 36366869646.
+2021-06-23 18:24:20,903 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/48070542859/info/ returned response: <Response [200]>
+2021-06-23 18:24:21,624 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/48070542859/following/?max_id=&ig_sig_key_version=4&rank_token=48070542859_2319f47e-9697-4f1a-973b-f35435b0cb69 returned response: <Response [200]>
+2021-06-23 18:24:21,630 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 45884922778.
+2021-06-23 18:29:04,108 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "45884922778", "radio_type": "wifi-none", "device_id": "android-483dd0c6a985d9f6", "_uuid": "2319f47e-9697-4f1a-973b-f35435b0cb69", "_uid": "48070542859", "_csrftoken": "gFVhcab0FDMW5H6ny1owFobzTvXsQlWn"}
+2021-06-23 18:29:06,414 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/45884922778/ returned response: <Response [200]>
+2021-06-23 18:29:06,414 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 45884922778.
+2021-06-23 18:29:06,468 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 48070542859.
